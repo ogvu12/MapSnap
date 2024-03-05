@@ -1,14 +1,14 @@
 Privacy Policy
 
-This Privacy Policy governs the manner in which MapSnap collects, uses, maintains, and discloses information collected from users (each, a "User") of the [Your Website URL] website ("Site").
+This Privacy Policy governs the manner in which MapSnap collects, uses, maintains, and discloses information collected from users (each, a "User") of the MapSnap app ("Android App").
 
 Personal identification information
 
-We do not collect any personal identification information from Users of our Site.
+We do not collect any personal identification information from Users of our App.
 
 Non-personal identification information
 
-We do not collect any non-personal identification information from Users of our Site.
+We do not collect any non-personal identification information from Users of our App.
 
 Web browser cookies
 
@@ -20,7 +20,7 @@ We do not collect any information from Users, therefore we do not use any collec
 
 How we protect your information
 
-We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Site.
+We do not collect your data and therefore is protected.
 
 Sharing your personal information
 
